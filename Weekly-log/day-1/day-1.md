@@ -19,7 +19,7 @@ Password found: saved.
 "cat readme" - read the password file
 
 review
-- Today I learned that by using SSH is how I+ remotely connect to servers
+- Today I learned that by using SSH is how I remotely connect to servers
 - the hardest part was part was getting the SSH command syntax correct and it is actually so simple
 
 - DAY ONE COMPLETE.
